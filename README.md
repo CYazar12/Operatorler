@@ -1,7 +1,9 @@
 [Patika.dev](www.patika.dev)
 
 # Operatorler
-##Atama işlemi 
+
+##  Atama işlemi 
+
 int x = 3;
 
 int y = 3;
